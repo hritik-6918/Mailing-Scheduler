@@ -1,3 +1,5 @@
+![screencapture-mailing-scheduler-netlify-app-mailings-2025-02-02-18_05_17](https://github.com/user-attachments/assets/b16ec661-2e7e-4fb4-adde-ea80b0de8295)
+
 # Email Campaign Scheduler
 
 A Next.js application for scheduling and managing email campaigns.
